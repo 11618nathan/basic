@@ -1,0 +1,6 @@
+C:\Users\User\Documents\GitHub\MathBaseball\MathBaseball\bin\Debug\MathBaseball.exe.config
+C:\Users\User\Documents\GitHub\MathBaseball\MathBaseball\bin\Debug\MathBaseball.exe
+C:\Users\User\Documents\GitHub\MathBaseball\MathBaseball\bin\Debug\MathBaseball.pdb
+C:\Users\User\Documents\GitHub\MathBaseball\MathBaseball\obj\Debug\MathBaseball.exe
+C:\Users\User\Documents\GitHub\MathBaseball\MathBaseball\obj\Debug\MathBaseball.pdb
+C:\Users\User\Documents\GitHub\MathBaseball\MathBaseball\obj\Debug\MathBaseball.csprojResolveAssemblyReference.cache
